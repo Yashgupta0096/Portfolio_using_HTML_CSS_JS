@@ -1,0 +1,3 @@
+Here's what I'm gonna do...
+
+I'm designing a portfolio for me to showcase my skills in HTML, CSS, & Javascript
